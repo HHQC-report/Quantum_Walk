@@ -38,7 +38,7 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 | [3] | Triangle Finding query complexity  |  $O(n^{5/4})$ |$O(n^\omega)$, $\omega<2.3729$|
 | [2] | Unstructured Search |  $O(\sqrt{n})$ |$O(n)$ |
 
-
+d
     
     
 ## Reference:
