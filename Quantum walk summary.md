@@ -19,7 +19,17 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 
 
-## <a id="Arora" />The Arora-Kale framework
+## Applied Algorithm 
+
+###
+Continous time quantum walk
+
+###
+Discrete time quantum walk
+
+
+
+
 For probelme definition, please see Equation \eqref{eq1}.
 * complexity for the Arora-Kale framework
 
