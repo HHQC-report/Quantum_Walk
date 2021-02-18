@@ -24,8 +24,8 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 | ref | Problem   |  Quantum Complexity | Classical Complexity|
 | --- | ---- |  ------ |------ |
-| [1] | decision tree problem  |  $n$ |$2^{n/6}$ |
-| [2] |   Unstructured Search |  $\sqrt{n}$ |$n$ |
+| [1] | decision tree problem  |  $O(n)$ |$O(2^{n/6})$ |
+| [2] |   Unstructured Search |  $O(\sqrt{n})$ |$O(n)$ |
 
 
 
@@ -35,8 +35,8 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 | ref | Problem   |  Quantum Complexity |Classical Complexity|
 | --- | ---- |  ------ |------ |
-| [3] | Triangle Finding query complexity  |  $n^{5/4}$ |$n^\omega$, $\omega<2.3729$|
-| [2] | Unstructured Search |  $\sqrt{n}$ |$n$ |
+| [3] | Triangle Finding query complexity  |  $O(n^{5/4})$ |$O(n^\omega)$, $\omega<2.3729$|
+| [2] | Unstructured Search |  $O(\sqrt{n})$ |$O(n)$ |
 
 
     
