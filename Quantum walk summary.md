@@ -35,7 +35,7 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 | ref | Problem   |  Quantum Complexity |Classical Complexity|
 | --- | ---- |  ------ |------ |
-| [3] | Triangle Finding query complexity  |  $n^5/4$ |$n^\omega$ |
+| [3] | Triangle Finding query complexity  |  $n^5/4$ |$n^\omega$ $\omega<2.3729$|
 | [2] | Unstructured Search |  $\sqrt{n}$ |$n$ |
 
 
@@ -46,4 +46,4 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 [2] [Thomas G. Wong, Unstructured Search by Random and Quantum Walk.](https://arxiv.org/abs/2011.14533)
 
-
+[3] [François Le Gall, Improved Quantum Algorithm for Triangle Finding via Combinatorial Arguments](https://arxiv.org/abs/1407.0085)
