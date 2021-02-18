@@ -19,13 +19,16 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 
 
-## Applied Algorithm 
-
+## Application
 ### Continous time quantum walk
+
+#### Exponential algorithmic speedup by a quantum walk
 
 
 ### Discrete time quantum walk
 
+#### Triangle Finding
+#### Unstructured Search
 
 
 
