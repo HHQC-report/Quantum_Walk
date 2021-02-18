@@ -39,29 +39,10 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 | [2] | Unstructured Search |  $\sqrt{n}$ |$n$ |
 
 
-## <a id="improvement" />Main improvement
-Use the Gibbs sampling.
     
     
 ## Reference:
-[1] [Fernando G.S.L. Brandao, Krysta Svore, Quantum Speed-ups for Semidefinite Programming](https://arxiv.org/abs/1609.05537)
+[1] A. M. Childs, R. Cleve, E. Deotto, E. Farhi, S. Gutmann, and D. A. Spielman, in Proceedings of the 35th ACM Symposium on Theory ofComputing (ACM, New York, 2003),p.59. (https://arxiv.org/abs/quant-ph/0209131)
+[2] Thomas G. Wong, Unstructured Search by Random and Quantum Walk (https://arxiv.org/abs/2011.14533)
 
 
-## <a name="details" />Appendix
-$$ \Vert\vec{x}\Vert_1=\sum_{i=1}^N\vert{x_i}\vert $$
-
-$\bar{X} = \frac{\sum_{i=1}^n X_i}{n}$
-
-$$ evidence_{i}=\sum_{j}W_{ij}x\_{j}+b\_{i} $$
-
-$$
-\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
-$$
-
-Test a display math with equation number:
-$$
-  \begin{align}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
-    |\psi_2\rangle &= c|0\rangle + d|1\rangle       
-  \end{align}
-$$
