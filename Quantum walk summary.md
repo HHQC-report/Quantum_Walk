@@ -22,38 +22,21 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 ## Application
 ### Continous time quantum walk
 
-| ref | algorithm   |  complexity |
+| ref | algorithm   |  Quantum Complexity | Classical Complexity|
 | --- | ---- |  ------ |
-| [1] | Exponential algorithmic speedup by a quantum walk  |  $\tilde{O}(nms(\frac{Rr}{\varepsilon})^4 + ns(\frac{Rr}{\varepsilon})^7)$ |
-| [2] |   Unstructured Search |  $\tilde{O}(\sqrt{mn}s^2 R^{32}/\delta^{18})$       |
+| [1] | Exponential algorithmic speedup by a quantum walk  |  $\sqrt{n}$ |$n$ |
+| [2] |   Unstructured Search |  $\sqrt{n}$ |$n$ |
 
-
-
-#### Exponential algorithmic speedup by a quantum walk
 
 
 ### Discrete time quantum walk
 
-#### Triangle Finding
-#### Unstructured Search
 
 
-| ref | algorithm   |  complexity |
+| ref | algorithm   |  Quantum Complexity |Classical Complexity|
 | --- | ---- |  ------ |
-| [1] | Triangle Finding  |  $\tilde{O}(nms(\frac{Rr}{\varepsilon})^4 + ns(\frac{Rr}{\varepsilon})^7)$ |
-| [2] |   Unstructured Search |  $\tilde{O}(\sqrt{mn}s^2 R^{32}/\delta^{18})$       |
-
-
-For probelme definition, please see Equation \eqref{eq1}.
-* complexity for the Arora-Kale framework
-
-| ref | algorithm   |  complexity |
-| --- | ---- |  ------ |
-| [1] | classical  |  $\tilde{O}(nms(\frac{Rr}{\varepsilon})^4 + ns(\frac{Rr}{\varepsilon})^7)$ |
-| [1] | QM   |  $\tilde{O}(\sqrt{mn}s^2 R^{32}/\delta^{18})$       |
-
-The improvment for the QM approach to the Arora-Kale framework is the [Gibbs sampling](#improvement).
-The details are listed in the [Appendix](#details)
+| [1] | Triangle Finding    |  $\sqrt{n}$ |$n$ |
+| [2] | Unstructured Search |  $\sqrt{n}$ |$n$ |
 
 
 ## <a id="improvement" />Main improvement
