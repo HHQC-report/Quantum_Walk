@@ -7,7 +7,8 @@ Quantum walk is an quantum analog of classical random walks. It plays the part o
 
 There are two types of quantum walk:
 1. Continous time quantum walk (CTQW)
-Given an quantum state |\psi\rangle
+Given an quantum state $\bar{X} = \frac{\sum_{i=1}^n X_i}{n}$
+
 
 
 
