@@ -24,7 +24,7 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 | ref | Problem   |  Quantum Complexity | Classical Complexity|
 | --- | ---- |  ------ |------ |
-| [1] | Exponential algorithmic speedup by a quantum walk  |  $\sqrt{n}$ |$n$ |
+| [1] | decision tree problem  |  $\sqrt{n}$ |$n$ |
 | [2] |   Unstructured Search |  $\sqrt{n}$ |$n$ |
 
 
@@ -35,7 +35,7 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 | ref | Problem   |  Quantum Complexity |Classical Complexity|
 | --- | ---- |  ------ |------ |
-| [1] | Triangle Finding    |  $\sqrt{n}$ |$n$ |
+| [3] | Triangle Finding query complexity  |  $n^5/4$ |$n^\omega$ |
 | [2] | Unstructured Search |  $\sqrt{n}$ |$n$ |
 
 
