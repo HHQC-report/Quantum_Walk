@@ -22,6 +22,13 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 ## Application
 ### Continous time quantum walk
 
+| ref | algorithm   |  complexity |
+| --- | ---- |  ------ |
+| [1] | Exponential algorithmic speedup by a quantum walk  |  $\tilde{O}(nms(\frac{Rr}{\varepsilon})^4 + ns(\frac{Rr}{\varepsilon})^7)$ |
+| [1] |   Unstructured Search |  $\tilde{O}(\sqrt{mn}s^2 R^{32}/\delta^{18})$       |
+
+
+
 #### Exponential algorithmic speedup by a quantum walk
 
 
