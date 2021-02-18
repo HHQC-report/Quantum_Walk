@@ -25,7 +25,7 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 | ref | algorithm   |  complexity |
 | --- | ---- |  ------ |
 | [1] | Exponential algorithmic speedup by a quantum walk  |  $\tilde{O}(nms(\frac{Rr}{\varepsilon})^4 + ns(\frac{Rr}{\varepsilon})^7)$ |
-| [1] |   Unstructured Search |  $\tilde{O}(\sqrt{mn}s^2 R^{32}/\delta^{18})$       |
+| [2] |   Unstructured Search |  $\tilde{O}(\sqrt{mn}s^2 R^{32}/\delta^{18})$       |
 
 
 
@@ -38,6 +38,10 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 #### Unstructured Search
 
 
+| ref | algorithm   |  complexity |
+| --- | ---- |  ------ |
+| [1] | Triangle Finding  |  $\tilde{O}(nms(\frac{Rr}{\varepsilon})^4 + ns(\frac{Rr}{\varepsilon})^7)$ |
+| [2] |   Unstructured Search |  $\tilde{O}(\sqrt{mn}s^2 R^{32}/\delta^{18})$       |
 
 
 For probelme definition, please see Equation \eqref{eq1}.
