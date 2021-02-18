@@ -24,8 +24,8 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 | ref | Problem   |  Quantum Complexity | Classical Complexity|
 | --- | ---- |  ------ |------ |
-| [1] | decision tree problem  |  $\sqrt{n}$ |$n$ |
-| [2] |   Unstructured Search |  $\sqrt{n}$ |$n$ |
+| [1] | decision tree problem |  $      n$  |$2^{n/6}$ |
+| [2] |   Unstructured Search |  $\sqrt{n}$ |$n$       | 
 
 
 
