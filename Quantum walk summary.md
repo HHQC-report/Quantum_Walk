@@ -1,5 +1,7 @@
-# Semidefinite programming
-Special types of optimization problems.
+# Quantum Walk
+
+Quantum walk is an quantum analog of classical random walks. It plays the part of building quantum algorithms.
+
 
 ## Problem definition
 The goal is to maximize the object function
