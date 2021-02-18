@@ -9,10 +9,7 @@ There are two types of quantum walk:
 1. Continous time quantum walk (CTQW)
 2. Discrete time quantum walk (DTQW)
 
-
-There are several frameworks to solve SDP. One of it is the [AK framework](#AKframe).
-
-## <a id="AKframe" />The Arora-Kale framework
+## <a id="Jimoo" />The Arora-Kale framework
 For probelme definition, please see Equation \eqref{eq1}.
 * complexity for the Arora-Kale framework
 
