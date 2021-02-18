@@ -1,16 +1,14 @@
-# Quantum Walk
+# Quantum Walk (QW)
 
 Quantum walk is an quantum analog of classical random walks. It plays the part of building quantum algorithms.
 
 
 ## Problem definition
-The goal is to maximize the object function
-\begin{equation}
-   Tr(CX)
-\label{eq1}
-\end{equation}
 
-under the constraint $Tr(A_j X)\le b_j$ for all $j \in [m]$ with semidefinite $X$.
+There are two types of quantum walk:
+1. Continous time quantum walk (CTQW)
+2. Discrete time quantum walk (DTQW)
+
 
 There are several frameworks to solve SDP. One of it is the [AK framework](#AKframe).
 
