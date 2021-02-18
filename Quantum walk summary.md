@@ -7,7 +7,16 @@ Quantum walk is an quantum analog of classical random walks. It plays the part o
 
 There are two types of quantum walk:
 1. Continous time quantum walk (CTQW)
-2. Discrete time quantum walk (DTQW)
+Given an quantum state |\psi\rangle
+
+
+
+
+3. Discrete time quantum walk (DTQW)
+
+
+
+
 
 ## <a id="Arora" />The Arora-Kale framework
 For probelme definition, please see Equation \eqref{eq1}.
