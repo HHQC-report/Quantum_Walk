@@ -21,11 +21,11 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 ## Applied Algorithm 
 
-###
-Continous time quantum walk
+### Continous time quantum walk
 
-###
-Discrete time quantum walk
+
+### Discrete time quantum walk
+
 
 
 
