@@ -23,7 +23,7 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 ### Continous time quantum walk
 
 | ref | algorithm   |  Quantum Complexity | Classical Complexity|
-| --- | ---- |  ------ |
+| --- | ---- |  ------ |------ |
 | [1] | Exponential algorithmic speedup by a quantum walk  |  $\sqrt{n}$ |$n$ |
 | [2] |   Unstructured Search |  $\sqrt{n}$ |$n$ |
 
@@ -34,7 +34,7 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 
 | ref | algorithm   |  Quantum Complexity |Classical Complexity|
-| --- | ---- |  ------ |
+| --- | ---- |  ------ |------ |
 | [1] | Triangle Finding    |  $\sqrt{n}$ |$n$ |
 | [2] | Unstructured Search |  $\sqrt{n}$ |$n$ |
 
