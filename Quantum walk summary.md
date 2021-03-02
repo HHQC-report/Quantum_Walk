@@ -48,7 +48,7 @@ d
 
 [3] [François Le Gall, Improved Quantum Algorithm for Triangle Finding via Combinatorial Arguments](https://arxiv.org/abs/1407.0085)
 
-[4]Andris Ambainis, Quantum walk algorithm for element distinctness(https://arxiv.org/abs/quant-ph/0311001)
+[4] [Andris Ambainis, Quantum walk algorithm for element distinctness](https://arxiv.org/abs/quant-ph/0311001)
 
 
 
