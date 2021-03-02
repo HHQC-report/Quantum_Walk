@@ -35,10 +35,6 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 | [4] | Element distinctness | $O(n^{2/3})$ |$\Omega(n)$ |
 
 
-
-
-
-d
     
     
 ## Reference:
@@ -52,6 +48,13 @@ d
 
 
 
-#### <a id="classicalrandomwalk" />Classical random walk
+#### <a id="classicalrandomwalk" />Def : Classical random walk
+
+Let {$X_1,X_2,...$ } is a sequance of $\mathbb{R}^{n}$ and this sequance are independent and identically distributed random variables. A random walk started at $z\in\mathbb{R}^{n}$ is a sequence ($S_t$) with $t\geq0$ 
+
+$S_0=z$ and $S_n=S_{n-1}+X_n$ for $n>0$
+
+The quantities $X_n$ are  the steps of the random walk.
 
 A random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
+
