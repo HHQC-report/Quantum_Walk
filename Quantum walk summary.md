@@ -1,6 +1,6 @@
 # Quantum Walk (QW)
 
-Quantum walk is an quantum analog of classical random walks. It plays the part of building quantum algorithms.
+Quantum walk is an quantum analog of [classical random walks.](#classical random walks) It plays the part of building quantum algorithms.
 
 
 ## Problem definition
@@ -8,8 +8,6 @@ Quantum walk is an quantum analog of classical random walks. It plays the part o
 There are two types of quantum walk:
 1. Continous time quantum walk (CTQW)
 Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the quantum state $|\psi\rangle$ by the untitary operator $U$.
-
-[Gibbs sampling](#improvement)
 
 
 
@@ -38,9 +36,44 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 | [3] | Triangle Finding query complexity  |  $O(n^{5/4})$ |$O(n^\omega)$, $\omega<2.3729$|
 | [2] | Unstructured Search |  $O(\sqrt{n})$ |$O(n)$ |
 
-d
-    
-    
+Continous time quantum walk (CTQW)Continous time quantum walk (CTQW)
+
+Continous time quantum walk (CTQW)
+
+Continous time quantum walk (CTQW)
+
+Continous time quantum walk (CTQW)
+
+Continous time quantum walk (CTQW)
+
+v
+
+Continous time quantum walk (CTQW)
+
+v
+
+Continous time quantum walk (CTQW)
+
+v
+
+v
+
+v
+
+Continous time quantum walk (CTQW)
+
+Continous time quantum walk (CTQW)
+
+v
+
+v
+
+v
+
+Continous time quantum walk (CTQW)
+
+​    
+
 ## Reference:
 [1] [A. M. Childs, R. Cleve, E. Deotto, E. Farhi, S. Gutmann, and D. A. Spielman, Exponential algorithmic speedup by quantum walk](https://arxiv.org/abs/quant-ph/0209131)
 
@@ -50,7 +83,6 @@ d
 
 
 
-<a id="improvement" />DD
+##### <a id="classical random walks" />classical random walks
 
-- The first quantized version [2] of Arora- Kale approach used the Gibbs Sampler from Ref. [3] to achieve the quantum advantage.
-- The followup work [4] use amplitude estimation.
+a random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
