@@ -51,13 +51,9 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 #### <a id="classicalrandomwalk" />Def : Classical random walk
 
 Let {$X_1,X_2,...$ } is a sequance of $\mathbb{R}^{n}$ and this sequance are independent and identically distributed random variables. A random walk started at $z\in\mathbb{R}^{n}$ is a sequence ($S_t$) with $t\geq0$ 
-
-$\begin{cases} S_t=z& \text{t=0} \\ S_t=S_{t-1}+X_t& \text{t>0} \end{cases}$
-
-
-
-$$ f(x)=\left\{ \begin{aligned} x & = & \cos(t) \\ y & = & \sin(t) \\ z & = & \frac xy \end{aligned} \right. $$ 
-
+$$
+\begin{cases} S_t=z& \text{t=0} \\ S_t=S_{t-1}+X_t& \text{t>0} \end{cases}
+$$
 The quantities $X_n$ are  referred to the steps of the random walk.
 
 A random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
