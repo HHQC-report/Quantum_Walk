@@ -32,6 +32,11 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 | --- | ---- |  ------ |------ |
 | [3] | Triangle Finding query complexity  |  $O(n^{5/4})$ |$O(n^\omega)$, $\omega<2.3729$|
 | [2] | Unstructured Search |  $O(\sqrt{n})$ |$O(n)$ |
+| [4] | Element distinctness | $O(n^{2/3})$ |$\Omega(n)$ |
+
+
+
+
 
 d
     
@@ -42,6 +47,8 @@ d
 [2] [Thomas G. Wong, Unstructured Search by Random and Quantum Walk.](https://arxiv.org/abs/2011.14533)
 
 [3] [François Le Gall, Improved Quantum Algorithm for Triangle Finding via Combinatorial Arguments](https://arxiv.org/abs/1407.0085)
+
+[4]Andris Ambainis, Quantum walk algorithm for element distinctness(https://arxiv.org/abs/quant-ph/0311001)
 
 
 
