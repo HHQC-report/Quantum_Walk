@@ -52,7 +52,11 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 
 Let {$X_1,X_2,...$ } is a sequance of $\mathbb{R}^{n}$ and this sequance are independent and identically distributed random variables. A random walk started at $z\in\mathbb{R}^{n}$ is a sequence ($S_t$) with $t\geq0$ 
 
-$\begin{cases} S_t=z& \text{t=0}\\ S_t=S_{t-1}+X_t& \text{t>0} \end{cases}$
+$\begin{cases} S_t=z& \text{t=0} \\ S_t=S_{t-1}+X_t& \text{t>0} \end{cases}$
+
+
+
+$$f(x)= \begin{cases} 0& \text{x=0}\\ 1& \text{x!=0} \end{cases}$$ \end{CJK*} \end{document} 
 
 The quantities $X_n$ are  referred to the steps of the random walk.
 
