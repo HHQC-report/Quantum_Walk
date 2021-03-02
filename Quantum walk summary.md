@@ -5,11 +5,11 @@ Quantum walk is an quantum analog of classical random walks. It plays the part o
 
 ## Problem definition
 
-There are two types of quantum walk:SS
+There are two types of quantum walk:
 1. Continous time quantum walk (CTQW)
 Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the quantum state $|\psi\rangle$ by the untitary operator $U$.
 
-
+[Gibbs sampling](#improvement)
 
 
 
@@ -47,3 +47,10 @@ d
 [2] [Thomas G. Wong, Unstructured Search by Random and Quantum Walk.](https://arxiv.org/abs/2011.14533)
 
 [3] [François Le Gall, Improved Quantum Algorithm for Triangle Finding via Combinatorial Arguments](https://arxiv.org/abs/1407.0085)
+
+
+
+<a id="improvement" />DD
+
+- The first quantized version [2] of Arora- Kale approach used the Gibbs Sampler from Ref. [3] to achieve the quantum advantage.
+- The followup work [4] use amplitude estimation.
