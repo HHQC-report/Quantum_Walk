@@ -1,6 +1,6 @@
 # Quantum Walk (QW)
 
-Quantum walk is an quantum analog of [classical random walks](#classicalrandomwal k). It plays the part of building quantum algorithms.
+Quantum walk is an quantum analog of [classical random walks](#classicalrandomwalk). It plays the part of building quantum algorithms.
 
 
 ## Problem definition
@@ -8,48 +8,9 @@ Quantum walk is an quantum analog of [classical random walks](#classicalrandomwa
 There are two types of quantum walk:
 1. Continous time quantum walk (CTQW)
 Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the quantum state $|\psi\rangle$ by the untitary operator $U$.
-
-[classical random walks](#improvement)
-
+2. Discrete time quantum walk (DTQW)
 
 
-3. Discrete time quantum walk (DTQW)
-
-
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
-
-3. Discrete time quantum walk (DTQW)
 
 
 
@@ -84,6 +45,6 @@ d
 
 
 
-<a id="classicalrandomwal k" />classical random walk
+<a id="classicalrandomwalk" />classical random walk
 
-a random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
+A random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
