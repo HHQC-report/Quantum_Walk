@@ -56,7 +56,7 @@ $\begin{cases} S_t=z& \text{t=0} \\ S_t=S_{t-1}+X_t& \text{t>0} \end{cases}$
 
 
 
-$$f(x)= \begin{cases} 0& \text{x=0}\\ 1& \text{x!=0} \end{cases}$$ \end{CJK*} \end{document} 
+$$ f(x)=\left\{ \begin{aligned} x & = & \cos(t) \\ y & = & \sin(t) \\ z & = & \frac xy \end{aligned} \right. $$ 
 
 The quantities $X_n$ are  referred to the steps of the random walk.
 
