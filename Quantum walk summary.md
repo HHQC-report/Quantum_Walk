@@ -51,6 +51,10 @@ Given an quantum state $|\psi\rangle$ and an untitary operator $U$, rotate the q
 #### <a id="classicalrandomwalk" />Def : Classical random walk
 
 Let {$X_1,X_2,...$ } is a sequance of $\mathbb{R}^{n}$ and this sequance are independent and identically distributed random variables. A random walk started at $z\in\mathbb{R}^{n}$ is a sequence ($S_t$) with $t\geq0$ 
+
+$S_t=z$ for $t=0$ 
+
+$S_t=S_{t-1}+X_t$ for $t>0$ 
 $$
 \begin{cases} S_t=z& \text{t=0} \\ S_t=S_{t-1}+X_t& \text{t>0} \end{cases}
 $$
