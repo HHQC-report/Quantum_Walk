@@ -1,6 +1,6 @@
 # Quantum Walk (QW)
 
-Quantum walk is an quantum analog of [classical random walks](#classicalrandomwalk). It plays the part of building quantum algorithms.
+Quantum walk is an quantum analog of [classical random walks](#classicalrandomwal k). It plays the part of building quantum algorithms.
 
 
 ## Problem definition
@@ -84,6 +84,6 @@ d
 
 
 
-<a id="classicalrandomwalk" />classical random walk
+<a id="classicalrandomwal k" />classical random walk
 
 a random walk is a mathematical object, known as a stochastic or random process, that describes a path that consists of a succession of random steps on some mathematical space such as the integers.
